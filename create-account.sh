@@ -1,0 +1,1 @@
+java -jar generators-0.8.0.jar AccountsGeneratorApp account-generator.conf >>acounts.txt

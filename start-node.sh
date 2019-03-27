@@ -1,0 +1,1 @@
+java -jar vostok-node-0.8.0.jar local-poa-net.conf
